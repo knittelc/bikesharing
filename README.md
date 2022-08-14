@@ -10,7 +10,7 @@ The purpose of this analysis is to determine if a Bike sharing program would per
 
 ## Results:
 
-The results of the NYC Bike Share Analysis [can be found here.]([LINK GOES HERE](https://public.tableau.com/app/profile/courtney.knittel/viz/bikesharenyc2018/NYCBikeSharingAnalysis?publish=yes)) 
+The results of the NYC Bike Share Analysis [can be found here.]((https://public.tableau.com/app/profile/courtney.knittel/viz/bikesharenyc2018/NYCBikeSharingAnalysis?publish=yes)) 
 
 ## Summary:
 

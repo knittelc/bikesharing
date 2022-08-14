@@ -12,7 +12,13 @@ The purpose of this analysis is to determine if a Bike sharing program would per
 
 The results of the NYC Bike Share Analysis ([find it here!](https://public.tableau.com/app/profile/courtney.knittel/viz/bikesharenyc2018/NYCBikeSharingAnalysis?publish=yes) "link to dashboard") are on Tableau Public.  
 
-
+- Looking at visualizations for 'Checkout Times for Users' and 'Checkout Times by Gender', we see that most rides are for 20 minutes or less, and that the vast majority of rides are less than one hour. We also see that this pattern is the same regardless of gender.
+- The beginning and ending points are a valuable data set and show that the highest use starting points are also the highest ending locations.  Could there be too few or too many bikes in some of these locations over the course of the day?
+- The next visual worksheet in the analysis story shows heavy weekend usage, trends towards the end of the week as well as commute times in the morning and evening bands. Specifically between the hours fo 5am-9am and 4pm - 8pm). It should be noted that Wednesday evenings are not as busy during commute and gives an opportunity to look into other factors with data.
+- The next visualization takes the previous one: one step further and breaks the data down into gender usage.  The pattern of usage for commuting and weekends is the same in both genders, and shows the much higher usage of people who have self-identified as "male" vs "female."
+- Using another heat map to further the narrative; with usage breakdown by subscriber vs customer, and then gender.  Can we assume subscribers are weekly commuters and customers are tourists?  This would need more data to support this assumption.
+- The final story page with two separate visualizations: The Peak Hours with highlighted usage hours, could help determine bike repair times, or relocation to high usaged areas.
+The trip by age could help with marketing to generate targeted marketing campaigns.
 
 ## Summary:
 

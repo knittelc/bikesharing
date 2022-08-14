@@ -10,7 +10,7 @@ The purpose of this analysis is to determine if a Bike sharing program would per
 
 ## Results:
 
-The results of the NYC Bike Share Analysis ([find it here!](https://public.tableau.com/app/profile/courtney.knittel/viz/bikesharenyc2018/NYCBikeSharingAnalysis?publish=yes) "link to dashboard") are on Tableau Public.  
+The results of the NYC Bike Share Analysis ([find it here!](https://public.tableau.com/app/profile/courtney.knittel/viz/bikesharenyc2018/NYCBikeSharingAnalysis?publish=yes)) are on Tableau Public.  
 
 - Looking at visualizations for 'Checkout Times for Users' and 'Checkout Times by Gender', we see that most rides are for 20 minutes or less, and that the vast majority of rides are less than one hour. We also see that this pattern is the same regardless of gender.
 - The beginning and ending points are a valuable data set and show that the highest use starting points are also the highest ending locations.  Could there be too few or too many bikes in some of these locations over the course of the day?
